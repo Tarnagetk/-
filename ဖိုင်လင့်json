@@ -5,13 +5,13 @@
 
 
 {
-         "name": "01. SG-DtacNoPro-Free-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/DTAC.ovpn"
+         "name": "01. TH-DtacNoPro-Free-1",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/Dtac%20.VpnPlaus.ovpn"
       },
 
 {
-         "name": "01. SG-TrueNoPro-Free-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/True.ovpn"
+         "name": "01. TH-TrueNoPro-Free-1",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/True%20.VpnPlaus.ovpn"
       },
 {
          "name": "02. TH-DtacNoPro-VIP-2",
@@ -37,8 +37,8 @@
          "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/%F0%9F%87%B9%F0%9F%87%AD02.TH-True-VIP.ovpn"
       },
 {
-         "name": "03. TH-AisNoPro-VIP-3",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/%F0%9F%87%B9%F0%9F%87%AD02.TH-Ais-VIP.ovpn"
+         "name": "01. TH-AisNoPro-VIP-1",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/Ais%20.VpnPlaus.ovpn"
       }
 
    ],
